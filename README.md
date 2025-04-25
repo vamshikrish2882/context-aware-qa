@@ -1,3 +1,6 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://context-aware-app-id2uozfh9cz2kdpbwaxnlp.streamlit.app/)
+
+
 # 🧠 Context-Aware QA System
 
 A lightweight Streamlit app that lets users:
