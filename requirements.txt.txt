@@ -3,6 +3,6 @@
 __pycache__/
 *.pyc
 *.pdf
-*.txt
-temp.pdf
+
+# Ignore virtual environments
 venv/
