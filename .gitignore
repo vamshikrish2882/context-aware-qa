@@ -1,0 +1,8 @@
+# Hide sensitive files and cache
+.env
+__pycache__/
+*.pyc
+*.pdf
+*.txt
+temp.pdf
+venv/
