@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+requests
+PyMuPDF
+spacy
+networkx
+matplotlib
